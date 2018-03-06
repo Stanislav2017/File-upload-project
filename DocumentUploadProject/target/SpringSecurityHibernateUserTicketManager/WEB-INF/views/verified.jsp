@@ -25,11 +25,13 @@
             </div>
         </div>
     </nav>
-    <div class="jumbotron">
-        <h1>Hi, ${email}.</h1>
-        <p>Congratulations, you have successfully confirmed your email.<p>
-            <a class="btn btn-lg btn-primary" href="<c:url value='/login'/>" role="button">Login docs &raquo;</a>
-        </p>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Hi, ${email}.</h1>
+            <p>Congratulations, you have successfully confirmed your email.<p>
+                <a class="btn btn-lg btn-primary" href="<c:url value='/login'/>" role="button">Login docs &raquo;</a>
+            </p>
+        </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
     <script src="${contextPath}/resources/js/bootstrap.js"></script>

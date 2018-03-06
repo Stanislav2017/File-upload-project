@@ -8,11 +8,13 @@ C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\myk
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\configuration\AppInitializer.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\dao\UserDao.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\dao\ConfirmEmailDaoImpl.java
+C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\model\FileBucket.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\service\UserService.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\dao\RoleDao.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\configuration\HibernateConfiguration.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\controller\AppController.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\security\SecurityConfiguration.java
+C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\util\FileValidator.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\component\ConfirmationEmailComponent.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\model\Role.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\service\UserServiceImpl.java
@@ -25,5 +27,6 @@ C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\myk
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\component\FileUploadService.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\model\ConfirmEmail.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\security\SecurityWebApplicationInitializer.java
+C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\util\UserValidator.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\configuration\AppConfig.java
 C:\Users\User\Desktop\TestTask\v.1.1\DocumentUploadProject\src\main\java\com\mykheikin\springproject\dao\DocumentDaoImpl.java
